@@ -23,7 +23,7 @@ package main
 import (
 	"log"
 
-	"github.com/desertbit/fillpdf"
+	"github.com/sahilsolidfi/fillpdf"
 )
 
 func main() {
